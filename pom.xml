@@ -29,7 +29,6 @@
       </execution>
     </executions>
     <configuration>
-      <executable>pwd</executable>
 <executable>hostname</executable>
     </configuration>
   </plugin>
